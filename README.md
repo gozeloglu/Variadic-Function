@@ -13,4 +13,4 @@ Variadic function takes indefinite size arity and a variable number of arguments
 
 #### Output
 
-The program produces two different outputs. Firstly calls the sender functions to send parameter to variadic function. So that, the program produces random numbers to calculating operations.
+The program produces two different outputs. Firstly calls the sender functions to send parameter to variadic function. So that, the program produces random numbers to calculating operations. After produced the random numbers, summation, finding max and min operations are done with variadic functions. The random numbers and results are shown in output.
